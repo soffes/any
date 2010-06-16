@@ -2,7 +2,7 @@
 
 Any provides a super easy way to get any model instance from an Active Record model. This is really handy when testing or populating your database with dummy data.
 
-## Useage
+## Usege
 
 Say you have a model named `Post`. All you have to do is:
 
