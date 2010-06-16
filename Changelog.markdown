@@ -1,4 +1,4 @@
-0.0.2 (Jun 15, 2010)
+0.0.2 (Jun 16, 2010)
 
 * Fix ActiveRecord dependency
 
