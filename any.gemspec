@@ -4,8 +4,8 @@ Gem::Specification.new do |s|
   s.author      = "Sam Soffes"
   s.email       = "sam@samsoff.es"
   s.homepage    = "http://github.com/samsoffes/any"
-  s.summary     = "Super easy way to get any model instance."
-  s.description = "Super easy way to get any model instance from an Active Record model."
+  s.summary     = "Super easy way to get a random model instance."
+  s.description = "Super easy way to get a random model instance from an Active Record model."
   s.platform    = Gem::Platform::RUBY
   
   s.files        = Dir["{lib}/**/*", "[A-Z]*", "init.rb"]
